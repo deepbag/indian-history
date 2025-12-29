@@ -1,0 +1,50 @@
+[
+  {
+    "type": "school",
+    "school_name": "GOVT PRIMARY MIDDLE SCHOOL RUMGARA",
+    "school_code": "22051002106,22051002107",
+    "school_category": "Primary Middle School",
+    "village": "Rumgara",
+    "district": "Korba",
+    "block": "Korba",
+    "cluster": "Jambahar",
+    "state": "Chhattisgarh",
+    "country": "India",
+    "postal_code": "495684",
+    "latitude": 22.35,
+    "longitude": 82.68,
+    "medium": "Hindi",
+    "established_year": 1949,
+    "photos": [],
+    "government_at_establishment": {
+      "central_government": {
+        "country": "India",
+        "prime_minister": {
+          "name": "Jawaharlal Nehru",
+          "tenure": {
+            "from_year": 1947,
+            "to_year": 1964
+          }
+        },
+        "party": {
+          "name": "Indian National Congress",
+          "short_name": "INC"
+        }
+      },
+      "state_government": {
+        "administrative_region": "Central Provinces & Berar",
+        "chief_minister": {
+          "name": "Ravi Shankar Shukla",
+          "tenure": {
+            "from_year": 1946,
+            "to_year": 1957
+          }
+        },
+        "party": {
+          "name": "Indian National Congress",
+          "short_name": "INC"
+        }
+      }
+    }
+  }
+]
